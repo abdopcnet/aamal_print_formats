@@ -1,5 +1,8 @@
 ### Aamal Print Formats
 
+![Version](https://img.shields.io/badge/version-16.11.2025-blue)
+
+
 Aamal Print Formats
 
 ### Installation
